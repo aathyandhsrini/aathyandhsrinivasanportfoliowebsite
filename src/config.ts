@@ -71,7 +71,6 @@ export const siteConfig = {
       achievements: [
         "9: Advanced Algebra 2, French 2, Project Lead the Way Computer Science Essentials",
         "10: AP Precalculus, AP Computer Science Principles, Honors Chemistry, French 3",
-        "11: AP Calculus AB, AP Computer Science A, AP Biology, AP Psychology",
         "CIF Student Athlete",
         "Academic D Block",
         "National Honors Society Club",
